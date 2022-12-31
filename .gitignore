@@ -22,3 +22,7 @@ dist/log*
 # Cypress
 test/e2e-cypress/screenshots
 test/e2e-cypress/videos
+/dist/swagger-ui-bundle.js.LICENSE.txt
+/dist/swagger-ui-es-bundle-core.js.LICENSE.txt
+/dist/swagger-ui-es-bundle.js.LICENSE.txt
+/dist/swagger-ui-standalone-preset.js.LICENSE.txt
