@@ -19,7 +19,7 @@ window.onload = function() {
   window.ui.initOAuth({
     clientId: "swagger-ui",
     scopeSeparator: " ",
-    scopes: "openid profile email phone address",
+    scopes: "read:actions",
     additionalQueryStringParams: {},
     useBasicAuthenticationWithAccessCodeGrant: false,
     usePkceWithAuthorizationCodeGrant: false
